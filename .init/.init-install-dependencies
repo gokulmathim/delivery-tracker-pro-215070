@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/delivery-tracker-pro-215070/delivery_tracker_database"
+}
